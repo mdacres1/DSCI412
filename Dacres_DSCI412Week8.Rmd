@@ -1,0 +1,39 @@
+# Creating a GitHub Account
+
+## DSCI 412
+
+### 12/12/21
+
+**Maurice Dacres**
+
+1. Week 1
+
+* In Week 1, I learned a few new things in addition to themes that I had previously been introduced to in previous courses. Specifically Bisas-Variance Tradeoff bias was an essential lesson from this week as it would set the tone for the rest of the course in how we view the test error in many situations. Also in relation to this we looked at both overfitting and underfitting, and what to do when overfitting occurs upon introducing new variables. There are numerous possible solutions including reducing complexity of your model and reducing variables.
+
+2. Week 2
+
+* In Week 2, I learned more about exploratory and explanatory analysis. These were both found to be essential to future projects. Exploratory analysis involves looking at the larger dataset and gathering a specific insight from a smaller group, while Explanatory analysis involves demonstrating how and why the insights are so.
+
+3. Week 3
+
+* In Week 3, We took a look at Linear Regression model. A couple of things that stood out regarding Linear regression is that it plays a key role in statistical modeling for quantities. Also, linear regression should always be the first choice, while moving onto more complex methods if there is something more appropriate for your specific modeling needs.
+
+4. Week 4
+
+* In Week 4, We learned about Classification methods. In particular we focused on Precision and Recall. Precision would be the statistic of how many predictions were correct. On the otherhand, Recall shows of the predictions that were thought to be positive, how many times were we accurate?
+
+5. Week 5
+
+* In Week 5, we looked at GLMs also known as Generalized Linear Models. We focused on some of the many advantages and disadvantages that come with using GLMs. With this here are two examples between advantages and disadvantages. An example of advantage would be that they can be easy for interpretation purposes and bias reduction. On the otherhand, a disadvantage could be processing time, especially when working with larger datasets.
+
+6. Week 6
+
+* In Week 6, we look at Tree-based models. In particular we focused on decision trees and random forests. There are pros and cons to any model and tree-based are no different. An advantage to Tree-based models is that they can be visualized and easily interpreted by a non-expert. This could prove helpful and a project where you need to explain an insight with someone with no Knowledge of R or tree models in general. on the otherhand in regards to a disadvantage, We learned that the trees can be very non-robust, meaning that a small change in data could make a big change in how the trees present.
+
+7. Week 7
+
+* In Week 7, we looked at unsupervised learning methods, in particular we focused on clustering. With coding portion of this week's lesson we were able to learn and answer the two key questions for K-Means Clustering. First would be, "What is the optimal number of clusters?". While the other question is,"How many elements are in each cluster?".
+
+8. Week 8
+
+* In Week 8, for our final week we looked at the collaborative platform GitHub and how using Git can be benefial for collaborative projects among other things. For this lesson, we learned how to download and set up a GitHub Account. We also learned how to link Github with RStudio which was used to create this file.
